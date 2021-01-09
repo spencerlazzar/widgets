@@ -1,3 +1,8 @@
+# Widgets
+
+This is a basic React application practicing the use of Hooks.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
